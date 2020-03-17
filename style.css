@@ -1,0 +1,152 @@
+div {
+}
+
+
+
+body {
+  background-image: url(https://images.assetsdelivery.com/compings_v2/Rast/Rast1606/Rast160600003.jpg);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: lightgrey;
+}
+
+
+
+header {
+
+}
+.navbar {
+  color:black;
+}
+.nb1 {
+  padding: 0;
+  margin: 20px;
+}
+.nb2, .nb3, .nb4, .nb5 {
+  background-color: turquoise;
+  box-shadow: 3.5px 3.5px black;
+  display:flex;
+  justify-content: space-around;
+  justify-content: space-between;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+}
+ul {
+  margin-left:50px;
+}
+
+
+
+.sec1 {
+
+}
+.logo1 {
+box-shadow: 3px 6px black;
+width: 200%;
+height: 200%;
+padding: 0;
+}
+
+
+
+.sec2 {
+  margin-top:30px;
+}
+.bigbtn {
+  display:flex;
+  flex-wrap: wrap;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+}
+.txt1 {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top:30px;
+  text-align: center;
+}
+iframe {
+  position: relative;
+  padding: 25px;
+  margin:0;
+
+}
+
+
+
+.sec3 {
+
+}
+.card {
+  color: lightgrey;
+  background-color: black;
+  margin-bottom: -15px;
+}
+.card-block {
+  margin-bottom: -15px;
+}
+.card-text {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+img {
+  padding: 20px;
+}
+.img1 {
+  outline: solid black 1px;
+}
+.img2 {
+  outline: solid black 1px;
+}
+.img3 {
+  outline: solid black 1px;
+}
+
+
+
+.sec4 {
+
+}
+.row1 {
+  padding:60px;
+  background-color: darkslategray;
+}
+.row2 {
+  height: 8px;
+  background-color: turquoise;
+}
+
+
+
+.sec5 {
+  margin-left: 50px;
+}
+img.footimg {
+  margin-right: 50px;
+}
+.txt2 {
+  padding-top: 20px;
+}
+
+
+.sec6 {
+  background-color: black;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.logo2 {
+
+}
+
+
+
+footer {
+  background-color: darkslategray;
+  height:70px;
+}
+.line1, .line2 {
+  background-color: white;
+  height: 5px;
+}
